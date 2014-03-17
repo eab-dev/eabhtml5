@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>EAB HTML5 template corrections</name>
+        <version>0.9.1</version>
+        <copyright>Copyright (C) 1999-2013 EAB Ltd</copyright>
+        <license>GNU General Public License v2.0</license>
+    </metadata>
+
+    <dependencies>
+        <requires>
+        </requires>
+        <extends>
+            <extension name="eabstandard" />
+            <extension name="ezwebin" />
+        </extends>
+    </dependencies>
+
+</software>
